@@ -11,4 +11,6 @@ Python3を導入しておいてください。
 `./main.sh`  
 
 で実行。Skype IDを入力すると読み上げてくれますよ。   
-詳しいことはhttp://nonbiriyanonikki.hatenablog.com/entry/2017/10/18/144325にて。
+詳しいことは
+http://nonbiriyanonikki.hatenablog.com/entry/2017/10/18/144325
+にて。
